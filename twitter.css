@@ -28,3 +28,8 @@
 .avatar {
 	border-radius: 90px !important;
 }
+
+/* Hide */
+.with-icn b {
+	display: none;
+}
