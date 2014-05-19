@@ -29,7 +29,11 @@
 	border-radius: 90px !important;
 }
 
-/* Hide */
+/* Hide icon labels */
 .with-icn b {
 	display: none;
+}
+.tweet .context .pretty-link s,
+.tweet .context .pretty-link b {
+	display: inline;
 }
